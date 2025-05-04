@@ -9,7 +9,7 @@
 # Структура проекта:
  - [Algorithms.py](./Algorithms.py) - часть 1: Алгоритмы
  - [test_example.py](./test_example.py) - часть 2: Автоматизация тестирования
- - [requirements.txt](./requirements.txt) - файл с зависимостямя 
+ - [requirements.txt](./requirements.txt) - файл с зависимостями 
 
 ---
 ## Инструкция по запуску тестов ко второму заданию
