@@ -23,10 +23,9 @@ def bubble_sort(numbers):
                 nums[j], nums[j+1] = nums[j+1], nums[j]
     return nums
 
-# Основная часть
 input_numbers = [int(x) for x in input("Введите числа через запятую: ").split(',')]
 
-print("Чётные числа:", get_evens(input_numbers))
+print("Четные числа:", get_evens(input_numbers))
 print("Максимальное число:", find_max(input_numbers))
 print("Минимальное число:", find_min(input_numbers))
 print("Отсортированный список:", bubble_sort(input_numbers))
